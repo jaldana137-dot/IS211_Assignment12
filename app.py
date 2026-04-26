@@ -1,7 +1,5 @@
 """
 IS211 Assignment 13 - Quiz Tracker Flask App
-A simple Flask app that lets a teacher manage students, quizzes,
-and quiz results using a SQLite database.
 """
 
 import os
